@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.header {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin: 0 auto 17px auto;
+
+}
+
+.top-header-logo {
+    display: flex;
+    justify-content: center;
+
+    margin: 0 auto 19px auto;
+
+}
+
+
+.top-logos {
+    display: flex;
+    justify-content: center;
+    gap: 128px;
+    margin: 0 auto 197px auto;
+
+}
