@@ -8,7 +8,7 @@
     display: flex;
     justify-content: center;
     gap: 100px;
-    margin: 0 auto 17px auto;
+    margin: 10 auto 17px auto;
 
 }
 
@@ -27,4 +27,15 @@
     gap: 128px;
     margin: 0 auto 197px auto;
 
+}
+
+.top-about-group-btn {
+    width: 90px;
+    height: 30px;
+    outline: orangered;
+    border: 1px solid rgb(187, 80, 18);
+    border-radius: 15px;
+    font-size: 14px;
+    background-color: orangered;
+    line-height: 30px;
 }
