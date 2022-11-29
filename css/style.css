@@ -39,3 +39,13 @@
     background-color: orangered;
     line-height: 30px;
 }
+
+.top-about-group-txt {
+    width: 90px;
+    height: 30px;
+    outline: orangered;
+    border: 1px solid rgb(187, 80, 18);
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+}
